@@ -8,7 +8,8 @@
 **도구**: Git, Github, VS Code
 
 ## 취미
-
+**:moneybag: 돈**을 좋아합니다.
+**:chart_with_upwards_trend: 떡상**을 좋아합니다.
 
 **siderack/siderack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
